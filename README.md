@@ -17,7 +17,7 @@ User will get 4 option to choose the game to play:
 To install Modules run command:
 ```bash
 pip3 install pillow
-pip3 install install python-tk
+pip3 install python-tk
 pip3 install freegames
 ```
 
