@@ -24,4 +24,4 @@ pip3 install freegames
 ## Usage
 
 1. Run the frolicoration.py file.
-2. Select the type of gae you want to play.
+2. Select the type of game you want to play.
